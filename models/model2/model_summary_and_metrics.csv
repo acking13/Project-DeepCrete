@@ -1,0 +1,2 @@
+Model_Description,Total_Parameters,Optimizer,Learning_Rate,Epochs_Trained,Early_Stopping_Enabled,Loss_Function,Metrics_Monitored,MSE_test_set,MAE_test_set,R_squared,MAPE_%
+"dense(64,relu) -> dense_1(64,relu) -> dense_2(1,linear)",4801,Adam,1e-04,1000,True,Mean Squared Error (MSE),Mean Absolute Error (MAE),37.7986946105957,4.8053693771362305,0.8489742653819661,15.201331758526985
